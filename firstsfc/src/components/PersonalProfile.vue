@@ -1,7 +1,7 @@
 <template>
 <head>
 <title>Niña's Introduction</title>
-<head>
+<head/>
 <body>
 <h1>Niña's Personal Profile Web page </h1>
 
