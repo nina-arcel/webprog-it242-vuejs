@@ -23,5 +23,6 @@ export default {
       margin: 10px;
       padding: 10px;
       background-color: lightgreen;
+      text-alignment: center;
     }
 </style>

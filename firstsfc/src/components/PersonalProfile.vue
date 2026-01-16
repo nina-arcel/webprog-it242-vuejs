@@ -22,7 +22,6 @@ Hobbies & Interests:<br>
 Music, Table Tennis, Digital Art<br>
 Goals in Life:<br>
 Church Ministry<br>
-<img src="https://upaws.org/wp-content/uploads/2016/02/snoopy-dog-house.jpg" alt="snoopy" width="200" height="300">
 </p>
 
 <div class="container">
