@@ -1,5 +1,5 @@
 <template>
-  <div class="okra">
+  <div class="apple">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -9,19 +9,19 @@
 export default {
   data() {
     return {
-      name: 'Okra',
-      message: 'I like Okra'
+      name: 'Apple',
+      message: 'I like Apple'
     }
   }
 };
 </script>
 
 <style>
-  .okra {
+  .apple {
       border: dashed black 1px;
       display: inline-block;
       margin: 10px;
       padding: 10px;
-      background-color: lightgreen;
+      background-color: red;
     }
 </style>
