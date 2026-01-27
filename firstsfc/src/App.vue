@@ -1,8 +1,7 @@
 <template>
   <h1>Food</h1>
   <food-item/>
-  <food-item2/>
-  <perdonal-profile>
+  <personal-profile>
   <comment-form/>
   <comment/>
 
